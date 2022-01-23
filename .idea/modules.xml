@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonCloudLibrary-main.iml" filepath="$PROJECT_DIR$/.idea/PythonCloudLibrary-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../wafer_circleci-main/wafer_circleci-main/.idea/WaferFaultDetection_new.iml" filepath="$PROJECT_DIR$/../../wafer_circleci-main/wafer_circleci-main/.idea/WaferFaultDetection_new.iml" />
+    </modules>
+  </component>
+</project>
